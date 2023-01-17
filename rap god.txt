@@ -1,0 +1,10 @@
+Author: Suede Arteaga
+REM Date: 2023-1-16
+REM Description: rap god
+
+DELAY 1000
+GUI r
+DELAY 200
+STRING powershell Start-Process "https://www.youtube.com/watch?v=XbGs_qK2PQA"
+DELAY 500
+ENTER
